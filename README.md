@@ -10,7 +10,7 @@ Welcome to my portfolio!
 
 ---
 
-
+[Notion](https://www.notion.so/Ohana0-14a0813727e6802e8747e3fb0fc24bba?pvs=4)
 ---
 
 ## 🚀 **Technology Stack**  
