@@ -1,5 +1,15 @@
 # 🌟 **Ohana0**  
-Welcome to my portfolio! I am passionate about developing impactful projects using AI and web technologies.
+Welcome to my portfolio!
+
+> "Ohana means family.  
+> Family means nobody gets left behind or forgotten."  
+> — *Lilo & Stitch*  
+
+**"Ohana"는 하와이어로 가족을 의미합니다.**  
+가족은 누구도 뒤처지거나 잊혀지지 않는 소중한 존재입니다. 저 역시 프로젝트와 협업에서 이러한 가치를 중요하게 생각하며, 모두가 함께 성장하고 나아가는 경험을 만들어가고자 합니다. 🚀  
+
+---
+
 
 ---
 
